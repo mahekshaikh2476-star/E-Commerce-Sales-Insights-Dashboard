@@ -1,0 +1,301 @@
+Order_ID,Customer_Name,Order_Date,Region,Category,Quantity,Unit_Price,Sales_Amount,Cost_Amount,Profit_Amount,Payment_Method
+O1001,Emily Erickson,2026-04-24,South,Home & Kitchen,5,3782,18910,10658.8,8251.2,COD
+O1002,Kimberly Oconnell,2026-03-21,South,Electronics,2,617,1234,940.86,293.14,Debit Card
+O1003,Diane Goodwin,2025-06-23,West,Electronics,5,1427,7135,3582.79,3552.21,UPI
+O1004,Randy Curtis,2026-02-12,West,Books,5,2881,14405,8839.76,5565.24,COD
+O1005,Christopher Huber,2026-02-24,North,Home & Kitchen,5,2671,13355,9627.57,3727.43,Debit Card
+O1006,Denise Benson,2025-10-21,South,Electronics,1,3047,3047,1821.5,1225.5,Credit Card
+O1007,Teresa Richards,2025-11-27,North,Fashion,5,4061,20305,15466.44,4838.56,COD
+O1008,Kim Preston,2026-01-17,East,Home & Kitchen,1,4161,4161,2973.69,1187.31,COD
+O1009,Yesenia Moody,2026-02-26,South,Electronics,4,4985,19940,14338.08,5601.92,Credit Card
+O1010,Brandon Hart,2026-05-22,East,Fashion,1,3043,3043,2170.66,872.34,COD
+O1011,Christopher Cole,2026-04-03,West,Books,2,2012,4024,2893.16,1130.84,COD
+O1012,William Miller,2025-08-29,East,Books,3,4601,13803,8019.69,5783.31,UPI
+O1013,Melissa Williams,2025-10-08,West,Home & Kitchen,1,1219,1219,633.31,585.69,Credit Card
+O1014,Wesley Poole,2026-02-03,East,Fashion,5,2195,10975,8081.18,2893.82,COD
+O1015,Bryan Juarez,2026-05-21,South,Fashion,3,2474,7422,4468.16,2953.84,Credit Card
+O1016,Nancy Walker,2026-05-07,East,Fashion,4,2527,10108,6851.79,3256.21,COD
+O1017,Claire Robertson,2026-05-02,West,Books,2,3962,7924,4649.95,3274.05,COD
+O1018,Luke Macdonald,2025-09-05,West,Books,1,976,976,527.46,448.54,COD
+O1019,Lisa Ruiz,2025-12-19,West,Electronics,1,2917,2917,1746.46,1170.54,Debit Card
+O1020,Samuel Garcia,2025-10-22,South,Books,3,4279,12837,8184.97,4652.03,Credit Card
+O1021,Monica Gibbs,2025-06-14,East,Books,4,4627,18508,10564.67,7943.33,Debit Card
+O1022,Peter Pearson,2025-08-13,South,Fashion,2,4494,8988,5064.05,3923.95,COD
+O1023,Donna Caldwell,2026-03-27,West,Fashion,1,4878,4878,2681.55,2196.45,UPI
+O1024,John Harris,2025-10-07,South,Electronics,2,922,1844,943.17,900.83,COD
+O1025,Christina Jordan,2025-12-26,South,Fashion,4,4118,16472,9047.76,7424.24,UPI
+O1026,Vanessa Hunter,2026-01-05,South,Books,3,2728,8184,4748.59,3435.41,COD
+O1027,Andrew Brandt,2025-09-17,East,Books,3,1109,3327,2390.41,936.59,Debit Card
+O1028,Stephanie Scott,2025-11-07,North,Electronics,1,4142,4142,2381.02,1760.98,Debit Card
+O1029,Karla Allen,2026-03-08,North,Books,1,1178,1178,621.58,556.42,COD
+O1030,Mary Harvey,2026-01-18,South,Books,1,1257,1257,815.21,441.79,UPI
+O1031,Lisa House,2025-09-27,North,Electronics,5,1403,7015,4564.6,2450.4,UPI
+O1032,Mike Gordon,2025-07-20,East,Fashion,5,4654,23270,14890.63,8379.37,UPI
+O1033,Jacob Pope,2025-11-04,West,Fashion,3,4985,14955,9421.65,5533.35,Debit Card
+O1034,Kathy Smith,2025-12-23,North,Books,5,3365,16825,8772.23,8052.77,UPI
+O1035,Sara Santiago,2025-11-30,East,Electronics,5,757,3785,2877.03,907.97,Debit Card
+O1036,Melissa Rich,2026-05-07,South,Electronics,5,2767,13835,9962.16,3872.84,Credit Card
+O1037,Richard Powers,2026-02-09,South,Books,3,4322,12966,7795.51,5170.49,Credit Card
+O1038,Gerald Arias,2025-12-25,South,Home & Kitchen,1,4934,4934,3738.07,1195.93,UPI
+O1039,David Martin,2026-02-09,North,Fashion,1,2415,2415,1770.96,644.04,UPI
+O1040,Brittany Mcmillan,2026-04-21,South,Electronics,4,1233,4932,2862.77,2069.23,Debit Card
+O1041,David Larson,2025-11-06,North,Electronics,5,2016,10080,6510.82,3569.18,Debit Card
+O1042,Heather Freeman,2025-06-09,East,Books,3,3137,9411,5461.72,3949.28,UPI
+O1043,Charles Martinez,2026-01-07,West,Books,3,3321,9963,5872.84,4090.16,Debit Card
+O1044,Chelsea Casey,2026-04-13,East,Books,2,4032,8064,6004.6,2059.4,Debit Card
+O1045,Joseph Gray,2026-04-29,South,Home & Kitchen,3,3950,11850,6682.16,5167.84,Debit Card
+O1046,Linda Collins,2026-02-18,South,Fashion,4,2174,8696,4831.9,3864.1,COD
+O1047,Nathan Garcia,2026-04-22,East,Books,2,567,1134,615.42,518.58,Debit Card
+O1048,Ryan Sanders,2025-10-07,South,Fashion,3,4060,12180,6845.66,5334.34,COD
+O1049,Breanna Davis,2026-02-02,East,Books,4,578,2312,1265.49,1046.51,Credit Card
+O1050,Sandra Martinez,2026-02-01,North,Fashion,4,2651,10604,6470.62,4133.38,UPI
+O1051,Nicholas Snyder,2026-03-15,East,Home & Kitchen,4,932,3728,1929.59,1798.41,COD
+O1052,Walter Banks,2025-09-12,South,Electronics,1,3346,3346,2231.02,1114.98,UPI
+O1053,Javier Miller,2025-12-13,North,Books,1,2069,2069,1399.81,669.19,UPI
+O1054,Brandon Franklin,2025-08-12,North,Electronics,2,3157,6314,3976.35,2337.65,Credit Card
+O1055,Samantha Jackson,2025-12-13,East,Home & Kitchen,4,4197,16788,10972.53,5815.47,COD
+O1056,Thomas Hawkins,2026-01-18,North,Books,2,4057,8114,4941.07,3172.93,UPI
+O1057,Patrick Morales,2026-05-25,East,Home & Kitchen,1,2973,2973,2049.43,923.57,Debit Card
+O1058,Laura Sullivan,2025-11-29,East,Books,1,2883,2883,1768.55,1114.45,Debit Card
+O1059,Terri Campos,2025-11-20,West,Home & Kitchen,4,3287,13148,6840.28,6307.72,UPI
+O1060,Jennifer Williams,2025-12-31,West,Books,1,1310,1310,693.5,616.5,UPI
+O1061,Keith Gonzales,2026-02-16,North,Books,3,4503,13509,9766.91,3742.09,Debit Card
+O1062,Kevin Boyd,2025-09-07,South,Home & Kitchen,2,4169,8338,4657.69,3680.31,Credit Card
+O1063,Alex Lee,2025-09-30,South,Books,1,2798,2798,2183.67,614.33,UPI
+O1064,Brian Fisher,2025-12-17,West,Books,2,3284,6568,4298.6,2269.4,Debit Card
+O1065,Jerry Horton,2026-02-17,East,Books,1,2274,2274,1566.54,707.46,Debit Card
+O1066,Christopher Bradford,2025-11-03,North,Books,3,2674,8022,6380.08,1641.92,UPI
+O1067,Matthew Walsh,2025-06-05,North,Home & Kitchen,1,4876,4876,3526.63,1349.37,COD
+O1068,Patricia Brown,2025-09-15,South,Books,3,525,1575,1205.08,369.92,COD
+O1069,John Henderson,2026-01-21,North,Home & Kitchen,2,2349,4698,2727.42,1970.58,Debit Card
+O1070,Raymond Reid,2026-02-28,East,Electronics,4,4497,17988,10848.39,7139.61,COD
+O1071,Amy Robinson,2026-01-24,South,Books,3,961,2883,1721.38,1161.62,Debit Card
+O1072,Kelly Sellers,2026-04-01,South,Electronics,3,4172,12516,8897.04,3618.96,UPI
+O1073,Heather Roberson,2025-09-27,East,Home & Kitchen,3,2797,8391,4920.99,3470.01,UPI
+O1074,Rhonda Byrd,2025-10-17,West,Electronics,2,1826,3652,1968.37,1683.63,Credit Card
+O1075,David Mejia,2025-10-27,East,Home & Kitchen,5,3777,18885,12278.23,6606.77,UPI
+O1076,Karen Carlson,2025-10-02,South,Books,3,888,2664,1564.35,1099.65,Credit Card
+O1077,Joshua Jordan,2025-06-29,South,Fashion,5,3238,16190,10545.84,5644.16,Credit Card
+O1078,Eileen Cain,2025-10-24,West,Home & Kitchen,5,2955,14775,11305.59,3469.41,Debit Card
+O1079,Rhonda Webb,2026-02-26,South,Fashion,5,2974,14870,11271.61,3598.39,COD
+O1080,Paul Sanchez,2026-04-08,East,Home & Kitchen,2,1128,2256,1558.7,697.3,Credit Card
+O1081,Clifford Pope,2026-02-22,East,Electronics,2,3625,7250,4751.88,2498.12,COD
+O1082,Sandra Clark,2025-08-08,West,Fashion,5,4348,21740,13982.69,7757.31,COD
+O1083,Gary Smith,2025-07-15,East,Electronics,4,4329,17316,10356.77,6959.23,Credit Card
+O1084,Terri Henderson,2025-08-13,North,Fashion,4,2781,11124,8000.77,3123.23,COD
+O1085,Timothy Mccoy,2025-10-16,North,Fashion,3,954,2862,1924.06,937.94,UPI
+O1086,Michele Hayes,2026-05-20,West,Books,2,789,1578,1065.45,512.55,UPI
+O1087,Mrs. Katie Powell,2025-09-12,East,Electronics,3,3239,9717,7427.48,2289.52,COD
+O1088,Amy Warren,2025-08-27,North,Home & Kitchen,5,2539,12695,9956.65,2738.35,Credit Card
+O1089,John Pratt,2025-09-30,South,Books,3,3346,10038,6367.69,3670.31,Debit Card
+O1090,Julie Johnson,2026-01-02,South,Fashion,3,1789,5367,3667.68,1699.32,UPI
+O1091,Kimberly Calderon,2025-11-03,North,Home & Kitchen,4,2866,11464,6741.29,4722.71,UPI
+O1092,Robert Brown,2026-05-07,East,Electronics,4,2642,10568,8086.26,2481.74,Debit Card
+O1093,Christine Hanna,2026-05-21,West,Books,1,1408,1408,883.58,524.42,UPI
+O1094,Steven Mccarthy,2025-06-17,South,Home & Kitchen,1,942,942,485.62,456.38,UPI
+O1095,Martin Drake,2026-04-14,East,Home & Kitchen,1,2814,2814,1965.59,848.41,UPI
+O1096,Alexandra Maldonado,2026-03-09,East,Home & Kitchen,3,3679,11037,7818.7,3218.3,UPI
+O1097,Jimmy Brown,2025-09-11,North,Electronics,3,1929,5787,3323.6,2463.4,Debit Card
+O1098,Matthew Russell,2026-05-16,West,Books,3,869,2607,1472.46,1134.54,UPI
+O1099,Hunter Barrera,2026-04-03,East,Home & Kitchen,3,4998,14994,10533.35,4460.65,COD
+O1100,Michael Garcia,2025-07-28,North,Home & Kitchen,5,4812,24060,13107.93,10952.07,COD
+O1101,Pam Bowers,2026-01-11,North,Electronics,1,1232,1232,949.17,282.83,Credit Card
+O1102,Jennifer Ewing,2026-05-06,South,Books,2,4703,9406,7099.51,2306.49,UPI
+O1103,Danielle Newton,2025-11-03,West,Fashion,5,1747,8735,4873.59,3861.41,UPI
+O1104,Amy Brown,2025-06-22,East,Books,3,829,2487,1688.42,798.58,Credit Card
+O1105,Patrick Deleon,2025-08-17,East,Home & Kitchen,4,2497,9988,7670.78,2317.22,UPI
+O1106,Theresa Harris,2026-02-05,West,Fashion,1,1030,1030,586.29,443.71,UPI
+O1107,James Johnson,2025-10-08,North,Home & Kitchen,3,1125,3375,2591.31,783.69,Debit Card
+O1108,Martha Carpenter,2026-05-07,West,Fashion,2,1516,3032,2251.21,780.79,Debit Card
+O1109,Derek Cohen,2026-04-26,West,Electronics,1,4397,4397,3246.72,1150.28,Credit Card
+O1110,Jennifer Fuller,2025-08-07,East,Fashion,1,4805,4805,3145.32,1659.68,Credit Card
+O1111,Stacy Adams,2025-09-21,North,Books,1,1787,1787,1356.97,430.03,COD
+O1112,Calvin Hopkins,2025-12-25,North,Electronics,4,2220,8880,5202.04,3677.96,Credit Card
+O1113,Bradley Case,2025-08-15,North,Home & Kitchen,5,3612,18060,10319.09,7740.91,Credit Card
+O1114,Mark Lozano,2026-03-15,West,Books,3,2151,6453,4581.93,1871.07,Debit Card
+O1115,Erik Collins,2025-08-31,South,Fashion,4,861,3444,2715.37,728.63,UPI
+O1116,Angela Miller,2026-01-05,South,Fashion,4,1689,6756,3895.28,2860.72,Credit Card
+O1117,Christopher Aguirre,2025-10-26,East,Electronics,2,4533,9066,4991.72,4074.28,Debit Card
+O1118,James Randall,2026-05-16,West,Fashion,5,976,4880,3762.79,1117.21,Credit Card
+O1119,Russell Romero,2025-07-20,East,Electronics,1,2727,2727,1964.15,762.85,UPI
+O1120,Tina Shah,2025-10-22,East,Books,1,1533,1533,1087.24,445.76,COD
+O1121,Frank Cross,2025-06-09,East,Fashion,5,1551,7755,4222.26,3532.74,Credit Card
+O1122,Michael Johnson,2025-09-06,East,Electronics,3,4003,12009,8893.47,3115.53,Debit Card
+O1123,Stephanie Franklin,2026-03-08,North,Books,5,3339,16695,9204.01,7490.99,Credit Card
+O1124,Gregory Richards,2026-02-03,East,Electronics,2,4828,9656,6938.45,2717.55,Credit Card
+O1125,Michelle Jacobs,2025-07-15,East,Electronics,1,596,596,363.26,232.74,Debit Card
+O1126,Christina Simon,2025-12-31,South,Fashion,2,3880,7760,5000.79,2759.21,Credit Card
+O1127,Mr. Michael Reynolds DVM,2026-02-25,North,Fashion,4,3401,13604,9978.17,3625.83,Debit Card
+O1128,Bernard Daniels,2025-12-31,East,Home & Kitchen,5,2245,11225,8625.08,2599.92,Credit Card
+O1129,Trevor Edwards,2026-05-03,East,Electronics,2,2184,4368,2345.99,2022.01,Debit Card
+O1130,Alyssa Rodriguez,2025-07-29,North,Home & Kitchen,4,4713,18852,9532.65,9319.35,Debit Card
+O1131,Melanie Anderson,2026-04-16,East,Fashion,3,3089,9267,6116.74,3150.26,UPI
+O1132,Billy Taylor,2025-07-01,South,Home & Kitchen,1,4988,4988,2716.8,2271.2,COD
+O1133,Michael Roberson,2025-10-26,East,Electronics,1,4338,4338,2320.63,2017.37,UPI
+O1134,Chad Rogers,2025-08-20,West,Fashion,1,4555,4555,2337.3,2217.7,COD
+O1135,Billy Lowe,2026-02-20,East,Books,2,4729,9458,5067.15,4390.85,Debit Card
+O1136,Jennifer Vasquez,2026-01-15,East,Books,2,3750,7500,5959.8,1540.2,UPI
+O1137,Mark Jennings,2025-10-18,West,Books,5,1462,7310,4004.42,3305.58,Credit Card
+O1138,Karen Lawson,2026-01-07,South,Fashion,4,1774,7096,4207.36,2888.64,UPI
+O1139,Jeremiah Harvey,2025-08-29,South,Home & Kitchen,4,1643,6572,3712.12,2859.88,UPI
+O1140,Thomas Jones,2025-11-15,North,Books,2,2409,4818,2484.08,2333.92,Debit Card
+O1141,Robert Graham,2026-02-14,West,Electronics,1,975,975,696.77,278.23,Debit Card
+O1142,Erin Henderson,2026-05-14,South,Electronics,2,2524,5048,2960.16,2087.84,Debit Card
+O1143,Steven Garcia,2026-03-09,North,Fashion,1,3407,3407,2431.04,975.96,Credit Card
+O1144,Clayton Mcknight,2026-05-12,South,Home & Kitchen,4,4648,18592,12257.84,6334.16,UPI
+O1145,Susan Weaver,2025-08-06,West,Electronics,4,1013,4052,2178.96,1873.04,Credit Card
+O1146,Brian Harrison,2025-11-06,East,Books,5,3436,17180,9284.82,7895.18,Credit Card
+O1147,Lori Carr,2025-07-13,West,Home & Kitchen,4,3820,15280,9287.4,5992.6,UPI
+O1148,Virginia Faulkner,2026-03-20,East,Home & Kitchen,5,1579,7895,6069.73,1825.27,UPI
+O1149,Ashley Phillips,2026-01-19,North,Books,1,2428,2428,1708.96,719.04,COD
+O1150,Shannon Cortez,2026-02-25,West,Home & Kitchen,5,1129,5645,4474.07,1170.93,Debit Card
+O1151,Mary Carter,2026-05-06,West,Electronics,3,1474,4422,3039.99,1382.01,UPI
+O1152,Jessica Warren,2025-07-17,West,Fashion,1,3560,3560,2711.12,848.88,Debit Card
+O1153,Caitlin Cooper,2026-01-10,South,Books,3,4249,12747,8251.44,4495.56,Credit Card
+O1154,Richard Robles,2026-03-04,North,Electronics,5,2482,12410,7999.68,4410.32,UPI
+O1155,Carolyn Turner,2025-07-14,North,Electronics,5,1006,5030,3177.72,1852.28,Debit Card
+O1156,Vincent Flores,2026-04-28,North,Books,3,4037,12111,9139.18,2971.82,COD
+O1157,Michael Conner,2026-02-22,East,Electronics,3,2372,7116,4148.55,2967.45,UPI
+O1158,Patty Lopez,2026-01-12,West,Electronics,1,1707,1707,1126.38,580.62,Debit Card
+O1159,Jordan Alexander,2025-09-29,South,Home & Kitchen,2,4894,9788,7739.46,2048.54,Debit Card
+O1160,Gina Bailey,2026-01-13,South,Electronics,2,3870,7740,3876.29,3863.71,UPI
+O1161,Erin Townsend,2026-05-09,West,Fashion,4,2164,8656,5192.07,3463.93,UPI
+O1162,Brianna Ray,2025-08-30,North,Books,5,3797,18985,11453.24,7531.76,UPI
+O1163,Veronica Young,2026-01-30,North,Books,2,1712,3424,2437.22,986.78,COD
+O1164,Crystal Flores,2025-06-05,North,Home & Kitchen,3,3904,11712,7260.29,4451.71,Debit Card
+O1165,Stephanie Wiggins,2026-03-05,South,Books,3,655,1965,1108.58,856.42,Debit Card
+O1166,Matthew Collins,2026-04-15,West,Fashion,3,1346,4038,2544.44,1493.56,Debit Card
+O1167,Lisa Winters,2025-10-18,North,Fashion,4,2310,9240,4766.67,4473.33,Credit Card
+O1168,Dana Stone,2025-08-08,West,Books,1,1365,1365,1033.86,331.14,UPI
+O1169,Beth Carr,2025-06-16,East,Home & Kitchen,2,2528,5056,3491.1,1564.9,Credit Card
+O1170,Kenneth Morgan,2025-08-26,West,Fashion,1,1843,1843,1343.98,499.02,Debit Card
+O1171,Erica Charles,2025-07-11,North,Fashion,3,2332,6996,4630.25,2365.75,Credit Card
+O1172,Calvin Stevens,2025-12-09,South,Books,5,4638,23190,14081.69,9108.31,Credit Card
+O1173,David Weber,2026-04-26,West,Electronics,4,1888,7552,5012.85,2539.15,Credit Card
+O1174,Michael Forbes,2025-09-15,West,Books,1,4578,4578,2887.51,1690.49,Credit Card
+O1175,Alan Jones,2026-02-28,East,Electronics,2,3670,7340,5042.7,2297.3,UPI
+O1176,Richard King,2026-01-22,North,Fashion,2,2135,4270,2346.58,1923.42,Debit Card
+O1177,Michael White,2025-08-12,East,Fashion,4,936,3744,2218.87,1525.13,Credit Card
+O1178,Elizabeth Terrell,2025-06-20,East,Home & Kitchen,3,1770,5310,3443.32,1866.68,Credit Card
+O1179,Danielle Gray,2026-05-02,South,Electronics,2,2037,4074,2878.99,1195.01,COD
+O1180,Renee Tucker,2025-06-27,West,Electronics,5,1413,7065,4611.81,2453.19,COD
+O1181,William Russell,2025-07-10,East,Books,3,2342,7026,5260.0,1766.0,UPI
+O1182,John Baker,2025-07-22,North,Electronics,2,1256,2512,1983.98,528.02,COD
+O1183,Erin Fuller,2026-03-27,East,Electronics,1,4215,4215,2865.95,1349.05,UPI
+O1184,Gina Smith,2025-07-27,West,Fashion,1,3863,3863,2410.1,1452.9,UPI
+O1185,Linda Miller,2025-06-06,East,Electronics,2,2875,5750,3512.99,2237.01,UPI
+O1186,Natasha Thomas,2026-03-11,South,Home & Kitchen,3,4650,13950,8823.42,5126.58,Credit Card
+O1187,Mrs. Tara Silva,2026-01-03,West,Books,1,4540,4540,3083.36,1456.64,Credit Card
+O1188,Danielle Morris,2025-11-21,North,Home & Kitchen,1,2901,2901,1697.17,1203.83,UPI
+O1189,Katherine Green,2025-11-05,North,Electronics,1,1999,1999,1256.34,742.66,Debit Card
+O1190,Matthew Lopez,2025-10-13,North,Fashion,4,3781,15124,11376.9,3747.1,Credit Card
+O1191,Renee Atkinson,2025-12-17,South,Books,2,1625,3250,2465.68,784.32,UPI
+O1192,Robert Ray,2026-02-01,North,Home & Kitchen,5,1160,5800,4607.81,1192.19,Debit Card
+O1193,Jonathan Griffin,2025-06-16,West,Electronics,2,1587,3174,1867.12,1306.88,UPI
+O1194,Joanna Benton,2025-09-13,South,Electronics,1,3636,3636,2145.53,1490.47,COD
+O1195,Erik Owens,2026-05-27,South,Home & Kitchen,3,2590,7770,4553.21,3216.79,UPI
+O1196,Janet Rodriguez,2025-07-19,West,Electronics,3,2854,8562,5373.37,3188.63,Credit Card
+O1197,Brandon Dillon,2026-06-02,East,Books,5,4959,24795,18028.5,6766.5,Debit Card
+O1198,Aaron Cox,2025-12-16,North,Home & Kitchen,2,886,1772,1079.67,692.33,COD
+O1199,Richard Jones,2025-09-04,North,Home & Kitchen,3,3578,10734,6178.32,4555.68,UPI
+O1200,Dr. Edwin Barnett PhD,2025-06-29,East,Fashion,2,3644,7288,4147.76,3140.24,COD
+O1201,Carlos Powers,2025-09-08,South,Electronics,1,892,892,572.59,319.41,Debit Card
+O1202,Kevin Garza,2025-07-12,East,Fashion,3,2601,7803,4195.07,3607.93,Debit Card
+O1203,Billy Klein,2025-06-15,East,Books,1,999,999,787.4,211.6,COD
+O1204,Stephanie Kelly,2026-01-19,West,Home & Kitchen,2,1694,3388,1887.52,1500.48,Debit Card
+O1205,Stephanie Coleman,2026-02-06,South,Books,3,3836,11508,9037.72,2470.28,Debit Card
+O1206,James Roberts,2025-07-23,North,Books,5,3344,16720,8594.24,8125.76,UPI
+O1207,Emily Long,2026-03-16,South,Home & Kitchen,2,1466,2932,1555.37,1376.63,UPI
+O1208,Sarah Coleman,2025-11-07,North,Fashion,2,965,1930,998.57,931.43,UPI
+O1209,Sabrina Sims,2025-06-23,East,Electronics,5,919,4595,3314.06,1280.94,Debit Card
+O1210,Henry Murphy,2025-12-07,South,Fashion,3,1632,4896,3894.29,1001.71,COD
+O1211,Jonathan Contreras,2025-06-29,East,Home & Kitchen,5,1788,8940,5774.12,3165.88,COD
+O1212,Danielle Schmitt,2026-05-21,West,Fashion,3,1459,4377,2994.03,1382.97,Credit Card
+O1213,Crystal Mcdaniel,2026-01-27,South,Fashion,4,4681,18724,14698.57,4025.43,UPI
+O1214,Jeffrey Lopez,2026-03-13,West,Books,2,964,1928,986.11,941.89,Debit Card
+O1215,Elijah Lopez,2025-08-21,West,Books,3,3050,9150,4996.67,4153.33,Credit Card
+O1216,Christopher Larsen,2026-01-04,South,Fashion,5,2630,13150,9952.25,3197.75,Debit Card
+O1217,Paul Thompson,2026-02-09,East,Electronics,1,3961,3961,2613.17,1347.83,UPI
+O1218,Michael Butler,2025-08-16,West,Home & Kitchen,1,4620,4620,2319.82,2300.18,UPI
+O1219,Kristi Pope,2025-10-06,East,Fashion,3,4848,14544,7319.03,7224.97,Debit Card
+O1220,Todd Murray,2026-03-28,South,Electronics,2,2097,4194,3162.37,1031.63,COD
+O1221,Jacqueline Gallagher,2026-02-22,West,Home & Kitchen,2,896,1792,952.44,839.56,Debit Card
+O1222,Leslie Brown,2025-12-10,East,Home & Kitchen,4,1846,7384,4196.8,3187.2,UPI
+O1223,Michael Lara,2025-06-10,East,Fashion,4,3164,12656,8424.63,4231.37,COD
+O1224,Robert Richardson,2026-04-15,North,Electronics,1,2580,2580,1355.1,1224.9,COD
+O1225,Alexis Miller,2025-07-27,South,Home & Kitchen,5,973,4865,3157.84,1707.16,Credit Card
+O1226,Nancy Lee,2025-07-21,West,Electronics,2,2041,4082,2849.24,1232.76,COD
+O1227,Heather Short,2026-04-28,South,Home & Kitchen,1,1542,1542,1014.89,527.11,UPI
+O1228,Amanda Webb,2025-11-03,West,Fashion,3,891,2673,1781.55,891.45,UPI
+O1229,Calvin Ferguson,2026-05-05,East,Home & Kitchen,5,1642,8210,5402.97,2807.03,Debit Card
+O1230,Tiffany Murphy,2026-03-25,South,Electronics,1,2221,2221,1583.0,638.0,COD
+O1231,Mitchell Werner,2026-02-04,East,Home & Kitchen,4,2733,10932,7762.14,3169.86,Debit Card
+O1232,Regina Beck,2026-01-10,North,Home & Kitchen,1,680,680,356.11,323.89,Credit Card
+O1233,Kim Mcbride,2026-04-06,West,Home & Kitchen,1,526,526,348.53,177.47,COD
+O1234,Erin Rodriguez,2026-03-07,South,Home & Kitchen,2,2044,4088,2647.18,1440.82,UPI
+O1235,Christina Wolf,2025-10-26,West,Electronics,1,2907,2907,1703.52,1203.48,COD
+O1236,Deborah Miranda,2026-03-09,North,Electronics,5,3554,17770,11637.1,6132.9,Credit Card
+O1237,Randy Walters,2026-05-28,South,Books,3,3363,10089,7235.95,2853.05,Credit Card
+O1238,Richard Taylor,2025-10-02,South,Electronics,1,2211,2211,1323.53,887.47,Credit Card
+O1239,Andrea Garrison,2025-12-27,North,Fashion,2,2658,5316,3392.15,1923.85,COD
+O1240,Krystal Martin,2025-12-10,North,Electronics,1,1477,1477,1113.08,363.92,Credit Card
+O1241,Jonathan Mccormick,2026-02-25,West,Home & Kitchen,4,2969,11876,8580.07,3295.93,COD
+O1242,Nicole Smith,2026-02-14,West,Electronics,1,3232,3232,1869.68,1362.32,UPI
+O1243,Erin Anderson,2025-09-05,West,Electronics,3,4468,13404,7252.7,6151.3,Credit Card
+O1244,Joshua Smith,2025-07-12,East,Books,2,4423,8846,4746.26,4099.74,Debit Card
+O1245,Brian Mejia,2025-10-15,South,Fashion,1,2302,2302,1658.17,643.83,COD
+O1246,Gregory Lambert,2025-07-08,East,Electronics,2,3517,7034,3796.51,3237.49,COD
+O1247,Catherine Wells,2025-10-06,West,Electronics,3,2435,7305,4604.5,2700.5,UPI
+O1248,Brian Oliver,2026-01-22,East,Fashion,4,1876,7504,4288.46,3215.54,Debit Card
+O1249,Connie Ortega,2025-08-05,West,Books,2,1942,3884,2702.41,1181.59,Debit Card
+O1250,Kerry Hall,2026-02-17,East,Fashion,1,1778,1778,1161.33,616.67,COD
+O1251,Yvonne Smith,2025-06-28,North,Fashion,3,1780,5340,3044.98,2295.02,Credit Card
+O1252,Ronald Murphy,2025-07-14,West,Electronics,5,4457,22285,15209.15,7075.85,UPI
+O1253,Jason Reed,2025-09-05,South,Books,5,3635,18175,12787.61,5387.39,Debit Card
+O1254,Jessica Gonzalez,2026-02-09,East,Electronics,4,968,3872,2318.55,1553.45,UPI
+O1255,Kristen Turner,2026-04-01,East,Books,3,2805,8415,6308.26,2106.74,Credit Card
+O1256,Andrew Carpenter,2026-01-29,North,Electronics,3,4007,12021,6411.18,5609.82,Debit Card
+O1257,Joseph Henry,2025-09-13,West,Books,2,1812,3624,1968.63,1655.37,Debit Card
+O1258,Ryan Carter,2025-07-09,North,Fashion,3,4527,13581,10561.54,3019.46,COD
+O1259,James Russo,2025-08-18,West,Electronics,4,3845,15380,9293.53,6086.47,Credit Card
+O1260,Jerry Thomas,2025-06-11,East,Books,3,2191,6573,3599.75,2973.25,Debit Card
+O1261,Kelly Sharp,2026-02-11,North,Books,2,2468,4936,2746.08,2189.92,COD
+O1262,Brian Wilson,2026-05-21,North,Home & Kitchen,5,3891,19455,13469.09,5985.91,Credit Card
+O1263,Jerry Terrell,2026-03-18,West,Books,1,4960,4960,3080.09,1879.91,Debit Card
+O1264,Brenda Smith,2025-08-09,South,Home & Kitchen,1,3537,3537,2028.74,1508.26,UPI
+O1265,Jacqueline Gilbert,2026-05-07,North,Books,2,710,1420,1067.71,352.29,COD
+O1266,Robert Adams,2026-01-02,West,Fashion,1,1693,1693,1344.71,348.29,UPI
+O1267,Sophia Guzman,2025-10-16,South,Fashion,2,718,1436,881.81,554.19,COD
+O1268,Lisa Matthews,2025-06-07,North,Electronics,3,3912,11736,6952.06,4783.94,Credit Card
+O1269,Paul Knight,2025-08-24,South,Books,3,986,2958,1968.86,989.14,Credit Card
+O1270,Justin Valdez,2026-06-03,West,Home & Kitchen,3,2338,7014,3549.33,3464.67,Credit Card
+O1271,Belinda Fitzgerald,2026-05-14,North,Electronics,4,4189,16756,12622.6,4133.4,Credit Card
+O1272,Dr. Joseph Rodriguez,2025-08-09,North,Books,3,3660,10980,7196.54,3783.46,COD
+O1273,Ryan Thomas,2026-05-05,West,Fashion,3,2818,8454,4414.0,4040.0,Credit Card
+O1274,Donna Martinez,2026-05-03,South,Home & Kitchen,4,3435,13740,7390.66,6349.34,COD
+O1275,Jennifer Vazquez,2026-03-16,West,Electronics,5,1452,7260,3841.4,3418.6,Debit Card
+O1276,Mitchell Sherman,2025-09-25,East,Home & Kitchen,4,4695,18780,12704.94,6075.06,UPI
+O1277,Albert Santiago,2026-03-10,West,Books,3,2824,8472,6763.09,1708.91,Credit Card
+O1278,Roy Lucas,2026-02-10,West,Electronics,3,4552,13656,8872.97,4783.03,Credit Card
+O1279,Hannah Sanford,2026-03-08,South,Books,3,4078,12234,6299.35,5934.65,Credit Card
+O1280,Kevin Miller,2025-09-28,East,Electronics,5,3227,16135,10476.14,5658.86,UPI
+O1281,Anthony Moreno,2026-04-20,West,Books,2,2772,5544,3535.78,2008.22,COD
+O1282,David Oliver,2025-06-26,West,Electronics,2,2349,4698,3193.56,1504.44,COD
+O1283,Meagan Cox,2025-12-10,North,Fashion,5,4700,23500,18383.85,5116.15,UPI
+O1284,Robert Willis,2025-11-27,West,Electronics,4,4842,19368,12847.54,6520.46,Debit Card
+O1285,Daniel Reese,2026-03-21,West,Home & Kitchen,1,3045,3045,1610.69,1434.31,Debit Card
+O1286,Maria Collins,2025-11-08,South,Home & Kitchen,1,1949,1949,1538.78,410.22,Debit Card
+O1287,Tracy Day,2025-12-20,South,Electronics,2,3384,6768,4929.27,1838.73,COD
+O1288,Alisha Gaines,2026-03-31,East,Home & Kitchen,4,3688,14752,11730.93,3021.07,Debit Card
+O1289,Kimberly Evans,2026-01-25,West,Home & Kitchen,3,666,1998,1008.46,989.54,COD
+O1290,Jose Daniel,2025-10-11,West,Books,2,3641,7282,5318.99,1963.01,Credit Card
+O1291,Michael Johnson,2025-06-29,North,Home & Kitchen,1,4617,4617,2364.82,2252.18,COD
+O1292,Anna Lambert,2025-11-01,South,Electronics,4,3842,15368,8879.12,6488.88,Debit Card
+O1293,James Long,2025-10-02,West,Books,2,1441,2882,2143.42,738.58,Debit Card
+O1294,Mikayla Lloyd,2026-01-29,East,Books,5,776,3880,2922.38,957.62,UPI
+O1295,Carmen Rollins,2026-03-15,South,Fashion,4,2593,10372,7576.77,2795.23,Debit Card
+O1296,Shane Leach,2025-12-28,South,Home & Kitchen,4,3724,14896,11038.01,3857.99,COD
+O1297,Debra Wilson,2025-08-15,North,Fashion,4,2874,11496,7265.95,4230.05,COD
+O1298,Robin Davis DDS,2026-06-04,North,Home & Kitchen,2,1879,3758,2240.99,1517.01,Debit Card
+O1299,Jimmy Hester,2025-10-09,East,Electronics,2,1863,3726,2107.62,1618.38,UPI
+O1300,Jacob Brown,2025-11-24,East,Home & Kitchen,3,1716,5148,3763.25,1384.75,Debit Card
